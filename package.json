@@ -1,0 +1,9 @@
+{
+  "name": "web-audio-api-mock",
+  "version": "0.1.0",
+  "description": "A mock class for testing apps that use Web Audio API. Compatible with headless browsers like PhantomJS.",
+  "main": "AudioContext.mock.js",
+  "repository": "benmurden/Web-Audio-API-Mock",
+  "author": "benmurden",
+  "license": "MIT"
+}
